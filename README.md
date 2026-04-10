@@ -1,15 +1,21 @@
 # Amazon Sales Dashboard 📊
 
 ## 🔹 Project Overview
-This project analyzes Amazon sales data using Power BI and MySQL to generate meaningful business insights.  
-The dashboard helps track sales performance, identify trends, and support data-driven decision making.
+This project presents an interactive Amazon Sales Dashboard built using Power BI and MySQL.  
+It helps analyze sales performance, identify trends, and generate actionable business insights for better decision-making.
 
 ---
 
-## 🔹 Tools Used
+## 🔹 Problem Statement
+Businesses often struggle to understand large volumes of sales data.  
+This dashboard solves that problem by converting raw data into clear and interactive visual insights.
+
+---
+
+## 🔹 Tools & Technologies
 - Power BI (Data Visualization)
-- MySQL (Data Storage & Queries)
-- Excel / CSV (Dataset)
+- MySQL (Database & SQL Queries)
+- Excel / CSV (Data Source)
 
 ---
 
@@ -20,11 +26,17 @@ The dashboard helps track sales performance, identify trends, and support data-d
 - Cancellation Rate
 - Sales Trend Analysis
 - Top Product Categories
+- City & State-wise Sales Insights
 
 ---
 
 ## 🔹 Dashboard Preview
+
+### 📊 Main Dashboard
 ![Dashboard](dashboard.png)
+
+### 📈 Additional View
+![Dashboard](dashboard_2.png)
 
 ---
 
@@ -32,20 +44,26 @@ The dashboard helps track sales performance, identify trends, and support data-d
 - Database creation and table structure
 - Data analysis using SQL (SUM, GROUP BY, ORDER BY)
 
-📁 Check `amazon_sales.sql`
+📁 File: `amazon_sales.sql`
 
 ---
 
 ## 🔹 Dataset
-Sample dataset is included in this repository.  
+Sample dataset included in this repository.  
 Dataset inspired from Amazon sales data available on Kaggle.
 
 ---
 
-## 🔹 Insights
+## 🔹 Insights Generated
 - Identified top-performing product categories
-- Observed sales trends over time
-- Detected patterns in order cancellations
+- Observed seasonal sales trends
+- Found patterns in order cancellations
+- Analyzed regional performance
+
+---
+
+## 🔹 Project Outcome
+The dashboard simplifies complex sales data into meaningful insights, enabling better business decisions and performance tracking.
 
 ---
 
