@@ -1,27 +1,29 @@
 # Amazon Sales Dashboard 📊
 
 ## 🔹 Project Overview
-This project analyzes Amazon sales data using Power BI and MySQL.
+This project analyzes Amazon sales data using Power BI and MySQL to generate business insights.
 
 ## 🔹 Tools Used
 - Power BI
 - MySQL
 - Excel / CSV
 
-## 🔹 Features
-- Total Revenue
-- Total Orders
+## 🔹 Key Features
+- Total Revenue KPI
+- Total Orders KPI
 - Average Order Value
 - Cancellation Rate
+- Sales Trend Analysis
+- Top Product Categories
 
 ## 🔹 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
-## 🔹 SQL
-Check sql/amazon_sales.sql
+## 🔹 SQL Queries
+SQL queries used for database creation and analysis are included in the project.
 
 ## 🔹 Dataset
-(Add Kaggle link here)
+Sample dataset included. Original dataset inspired from Kaggle.
 
 ## 🔹 Author
 Priya Saini
